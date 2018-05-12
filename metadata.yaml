@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39996'
     url: http://www.gutenberg.org/2009/agents/39996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39388#The-Columbia-RiverIts-History-Its-Myths-Its-Scenery-Its-Commerce
 gutenberg_issued: '2012-04-06'
 gutenberg_type: Text
 identifiers:
